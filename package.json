@@ -25,6 +25,6 @@
   "module": "index.ts",
   "type": "module",
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.0.0"
   }
 }
